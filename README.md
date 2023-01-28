@@ -18,7 +18,7 @@
 | Lab(Live) | [Week 7 - Solving CORS with a Load Balancer and Custom Domain](https://github.com/Topsideboss2/AWS_Cloud_Project_2023/blob/main/week7-Solving_CORS_with_a_Load_Balancer_and_Custom_Domain.md) | Apr 1 12pm (Noon) ET |
 | Lab(Live) | [Week 8 - Serverless Image Processing](https://github.com/Topsideboss2/AWS_Cloud_Project_2023/blob/main/week8-Serverless_Image_Processing.md) | Apr 8 12pm (Noon) ET |
 | Lab(Live) | [Week 9 = CI/CD with CodePipeline, Codebuild and CodeDeploy](https://github.com/Topsideboss2/AWS_Cloud_Project_2023/blob/main/week9-CICD_with_CodePipeline_Codebuild_and_CodeDeploy.md) | Apr 15 12pm (Noon) ET |
-| Lab(Live) | Week 10 - CloudFormation Part 1 | Apr 22 12pm (Noon) ET |
-| Lab(Live) | Week 11 - CloudFormation Part 2 | Apr 29 12pm (Noon) ET |
-| Lab(Live) | Week 12 - Modern APIs | May 6 12 pm (Noon) ET |
+| Lab(Live) | [Week 10 - CloudFormation Part 1](https://github.com/Topsideboss2/AWS_Cloud_Project_2023/blob/main/week10-CloudFormation_Part1.md) | Apr 22 12pm (Noon) ET |
+| Lab(Live) | [Week 11 - CloudFormation Part 2](https://github.com/Topsideboss2/AWS_Cloud_Project_2023/blob/main/week11-CloudFormation_Part2.md) | Apr 29 12pm (Noon) ET |
+| Lab(Live) | [Week 12 - Modern APIs](https://github.com/Topsideboss2/AWS_Cloud_Project_2023/blob/main/week12-ModernAPIs.md) | May 6 12 pm (Noon) ET |
 
