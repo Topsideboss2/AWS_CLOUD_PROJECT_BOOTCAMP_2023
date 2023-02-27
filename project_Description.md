@@ -1,5 +1,7 @@
 # Project Description
 
+![dUWVEZwqknp_EIBcNArJWOdLyCdx2pDG7rLyi2akQZgK1K4EnMgO_lVj0Fw_EjRoBRBzlgVjOaN9n-uTT_Llf-6j0KKhM3_DxwhuLwaxAQyEYEC3mcziCfnCd0MM.png](..%2F..%2F..%2FLibrary%2FGroup%20Containers%2Fgroup.com.apple.notes%2Ftmp%2FHardLinkURLTemp%2F18D72A21-2C13-4BE3-9F7D-01F1C34AF4CB%2F-62135769600%2FdUWVEZwqknp_EIBcNArJWOdLyCdx2pDG7rLyi2akQZgK1K4EnMgO_lVj0Fw_EjRoBRBzlgVjOaN9n-uTT_Llf-6j0KKhM3_DxwhuLwaxAQyEYEC3mcziCfnCd0MM.png)
+
 ## Pitching Cruddur to Customers
  Introducing a new micro-blogging platform that emphasizes privacy and the present moment. 
  Our platform allows users to post updates, thoughts and photos and automatically expire after a period of time, ensuring that your personal information and conversation stay relevant and in the moment.
